@@ -8,8 +8,8 @@ const client = new Discord.Client({
 }); // These 3 intents are REQUIRED for this example to function.
 
 const config = {
-  api_token: "YOUR_API_TOKEN_HERE", // Replace this with your API token.
-  bot_token: "YOUR_BOT_TOKEN_HERE", // Replace this with your bot token.
+  api_token: "MTg4MTc0NjUzNDU2NzkzNg==.ePQeOa.S9ykx9xPEtXaPiZuO0onpvCNjRr", // Replace this with your API token.
+  bot_token: "MTAzMDczNDA1OTQzMDc0ODE4MQ.GrmZRN.Nd7K3MWqszIAkeLdDCzsqiybYFLtWifhO4EMqI", // Replace this with your bot token.
 };
 
 const smartestchatbot = require("smartestchatbot");
